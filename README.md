@@ -18,8 +18,11 @@ link ---------------->    https://drive.google.com/file/d/1WBm-slhGQpGvc71DC2oqa
 how Build an environment for execution
 
 1.Install node.js (https://nodejs.org/en/download/)
+
 2. Editor installation .
+
 3. Install mongoDB (https://www.mongodb.com/download-center?jmp=nav#community)
+
 4. Install this compressed file int222-myproject (https://github.com/manjoong/codigm)
  
 
